@@ -16,7 +16,7 @@
 ## Disaster mapping datasets
 ### Floods
 [Global Flood Database](https://global-flood-database.cloudtostreet.ai/)  
-[The SpaceNet 8 Flood Detection](https://medium.com/@SpaceNet_Project/the-spacenet-8-flood-detection-challenge-dataset-and-algorithmic-baseline-release-e0c9f5a44154)
+[The SpaceNet 8 Flood Detection](https://medium.com/@SpaceNet_Project/the-spacenet-8-flood-detection-challenge-dataset-and-algorithmic-baseline-release-e0c9f5a44154)  
 [MMFlood](https://ieee-dataport.org/documents/mmflood-multimodal-dataset-flood-delineation-satellite-imagery)  
 
 
