@@ -6,8 +6,12 @@ Benchmarking cutting-edge PaML models;
 
 # Supported datasets
 ## Hydrology datasets 
-[CAMELS]()  
-[Caravan]()
+[CAMELS](https://ral.ucar.edu/solutions/products/camels)  
+[GSIM](https://doi.pangaea.de/10.1594/PANGAEA.887477) 
+[HydroRIVERS](https://www.hydrosheds.org/)  
+[HydroATLAS](https://www.hydrosheds.org/hydroatlas)
+[Caravan](https://github.com/kratzert/Caravan/)  
+[Global Runoff Data Centre](https://www.bafg.de/GRDC/EN/Home/homepage_node.html)  
 
 ## Disaster mapping datasets
 
