@@ -14,12 +14,18 @@ Benchmarking cutting-edge PaML models;
 [Global Runoff Data Centre](https://www.bafg.de/GRDC/EN/Home/homepage_node.html)    
 
 ## Disaster mapping datasets
+### Floods
 
+### Landslides
 
-## Flood dynamic process dataset
+### Wild fire
+
+## Flood dynamic process datasets
 [Flood Process in Pakistan, 2022](https://github.com/zhu-xlab/ML4Earth-Hackathon-2023)
 
-## Landslide dynamic process dataset
+## Landslide dynamic process datasets
 
 Continually updating
 
+
+# How to use 
