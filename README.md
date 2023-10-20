@@ -15,10 +15,15 @@ Benchmarking cutting-edge PaML models;
 
 ## Disaster mapping datasets
 ### Floods
+[Global Flood Database](https://global-flood-database.cloudtostreet.ai/)
 
 ### Landslides
+[Bijie Dataset](http://gpcv.whu.edu.cn/data/Bijie_pages.html)  
+[HR-GLDD](https://github.com/kushanavbhuyan/HR-GLDD-A-Global-Landslide-Mapping-Data-Repository) 
+[Landslide4Sense](https://www.iarai.ac.at/landslide4sense/)  
 
-### Wild fire
+
+### Wildfire
 
 ## Flood dynamic process datasets
 [Flood Process in Pakistan, 2022](https://github.com/zhu-xlab/ML4Earth-Hackathon-2023)
