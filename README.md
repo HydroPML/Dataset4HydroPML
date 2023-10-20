@@ -32,7 +32,7 @@ Benchmarking cutting-edge PaML models;
 [Flood Process in Pakistan, 2022](https://github.com/zhu-xlab/ML4Earth-Hackathon-2023)
 
 ## Landslide dynamic process datasets
-[Landslide Process in Baige]
+[Landslide Process in Baige](https://github.com/HydroPML/Landslidecast)
 
 Continually updating
 
