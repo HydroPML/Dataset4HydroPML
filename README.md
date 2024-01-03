@@ -22,7 +22,7 @@
 
 ### Landslides
 [Earthquake-induced landslides](https://github.com/zhu-xlab/UCDFormer)  
-[Dataset4Landslide_mapping](https://github.com/HydroPML/Dataset4Landslide_mapping)  
+[DCAS Landslide Dataset](https://github.com/HydroPML/Dataset4Landslide_mapping)  
 [Bijie Dataset](http://gpcv.whu.edu.cn/data/Bijie_pages.html)  
 [HR-GLDD](https://github.com/kushanavbhuyan/HR-GLDD-A-Global-Landslide-Mapping-Data-Repository) 
 [GVLM](https://github.com/zxk688/GVLM)  
